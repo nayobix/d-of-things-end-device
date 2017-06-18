@@ -1,0 +1,2 @@
+ssid = "YOUR WIFI SSID"
+pass = "YOUR WIFI PASSWORD"

@@ -1,0 +1,11 @@
+JSON_SENSORS=`cat <<EOF
+                {       "FeedID":"5",
+                        "FeedKeyHash":"30affa18813d27af843901e699f777a824b67aab91a119b508950c027e7f033e",
+                        "deviceName":"Esp_MAC_5335",
+                        "deviceID":1,
+                        "objectType": "Sensor",
+                        "objectName": "temp1", 
+                        "objectAction": "NONE",
+                        "objectValue": ${DATA},
+                        "timestamp": "None" }
+EOF
